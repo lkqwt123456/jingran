@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/index/login",
+    "pages/index/index",
+    "pages/index/recommend",
+    "pages/index/my",
+    "pages/index/tips",
+    "pages/index/scenery",
+    "pages/index/food",
+    "pages/index/stay",
+    "pages/index/forum",
+    "pages/index/stayDetail",
+    "pages/index/fixpass",
+    "pages/index/publish",
+    "pages/index/contact",
+    "pages/index/about",
+    "pages/index/sceneryDetail",
+    "pages/index/tipsDetail",
+    "pages/index/register",
+    "pages/index/collect",
+    "pages/index/delicious_food",
+    "pages/index/fruitDtail"
+  ],
+  "subPackages": [],
+  "window": {
+    "enablePullDownRefresh": false,
+    "backgroundTextStyle": "dark",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#f7d528",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabar/index.png",
+        "selectedIconPath": "static/tabar/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/recommend",
+        "iconPath": "static/tabar/menu.png",
+        "selectedIconPath": "static/tabar/menu1.png",
+        "text": "精品推荐"
+      },
+      {
+        "pagePath": "pages/index/my",
+        "iconPath": "static/tabar/my.png",
+        "selectedIconPath": "static/tabar/my1.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

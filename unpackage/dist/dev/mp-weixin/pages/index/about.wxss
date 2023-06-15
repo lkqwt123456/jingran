@@ -1,0 +1,43 @@
+
+page.data-v-9697b7b2{
+	background-color: #ececec;
+}
+.about-page.data-v-9697b7b2{
+	width: 92%;
+	height: 1500rpx;
+	margin: 20rpx auto;
+	border: 1rpx solid #dddddd;
+	border-radius: 16rpx;
+}
+.statement.data-v-9697b7b2{
+	margin-top: 20rpx;
+}
+.statement.data-v-9697b7b2,
+.privacy.data-v-9697b7b2,
+.about.data-v-9697b7b2{
+	margin-left: 20rpx;
+	margin-top: 20rpx;
+}
+.statement-title text.data-v-9697b7b2,
+.privacy-title text.data-v-9697b7b2,
+.about-title text.data-v-9697b7b2{
+	border-left: 8rpx solid #FFDD28;
+	padding-left: 12rpx;
+	font-weight: 600;
+}
+.statement-content.data-v-9697b7b2,
+.privacy-content.data-v-9697b7b2{
+	font-size: 26rpx;
+	margin-top: 10rpx;
+}
+.privacy-content .iconfont.data-v-9697b7b2{
+	color: #55aa7f;
+}
+.team-content.data-v-9697b7b2{
+	font-size: 26rpx;
+	margin-top: 10rpx;
+}
+.team.data-v-9697b7b2{
+	margin-top: 6rpx;
+}
+

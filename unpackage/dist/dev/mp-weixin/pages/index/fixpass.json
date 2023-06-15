@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "修改密码",
+  "usingComponents": {
+    "set-passkey": "/uni_modules/set-passkey/components/set-passkey/set-passkey"
+  }
+}

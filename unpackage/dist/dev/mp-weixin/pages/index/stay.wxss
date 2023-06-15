@@ -1,0 +1,144 @@
+
+.header-img.data-v-ff1b20a2 {
+	width: 100%;
+	height: 240rpx;
+}
+.header-img image.data-v-ff1b20a2 {
+	width: 100%;
+	height: 100%;
+}
+.new.data-v-ff1b20a2 {
+	width: 94%;
+	margin: 20rpx auto;
+}
+.new-title.data-v-ff1b20a2 {
+	font-size: 36rpx;
+	margin-left: 5rpx;
+}
+.new-img.data-v-ff1b20a2 {
+	width: 100%;
+	height: 360rpx;
+	margin-top: 15rpx;
+}
+.new-img image.data-v-ff1b20a2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 16rpx;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+.new .title.data-v-ff1b20a2 {
+	font-size: 28rpx;
+	margin-top: 10rpx;
+}
+.title-name.data-v-ff1b20a2 {
+	margin-left: 15rpx;
+	font-size: 30rpx;
+	font-weight: 600;
+}
+.bottom.data-v-ff1b20a2 {
+	display: flex;
+	margin-top: 15rpx;
+}
+.location.data-v-ff1b20a2 {
+	width: 70%;
+	color: #5b5b5b;
+	font-size: 27rpx;
+	margin-top: 8rpx;
+}
+.location .iconfont.data-v-ff1b20a2 {
+	font-size: 26rpx;
+	margin-right: 6rpx;
+}
+.new-price.data-v-ff1b20a2 {
+	color: #ff5e49;
+	font-size: 33rpx;
+}
+.stay.data-v-ff1b20a2 {
+	background-color: #f4f4f4;
+	padding-top: 22rpx;
+}
+.stay-title.data-v-ff1b20a2 {
+	margin-left: 20rpx;
+	font-family: "宋体";
+	font-size: 35rpx;
+	font-weight: 560;
+}
+.content.data-v-ff1b20a2 {
+	width: 98%;
+	display: flex;
+	margin: 5rpx auto;
+}
+.left.data-v-ff1b20a2,
+.right.data-v-ff1b20a2 {
+	width: 50%;
+	margin: 0 10rpx;
+}
+.left-list.data-v-ff1b20a2,
+.right-list.data-v-ff1b20a2 {
+	background-color: #FFFFFF;
+	margin-top: 26rpx;
+	border-radius: 10rpx;
+}
+.left-list .img.data-v-ff1b20a2 {
+	width: 100%;
+	height: 260rpx;
+	position: relative;
+}
+.right-list .img.data-v-ff1b20a2 {
+	width: 100%;
+	height: 310rpx;
+	position: relative;
+}
+.img image.data-v-ff1b20a2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 10rpx 10rpx 0 0;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+.img .iconfont.data-v-ff1b20a2 {
+	position: absolute;
+	top: 12rpx;
+	right: 18rpx;
+	font-size: 40rpx;
+	color: #f7f7f7;
+}
+.map text.data-v-ff1b20a2 {
+	font-size: 20rpx;
+	font-family: "宋体";
+}
+.map .iconfont.data-v-ff1b20a2 {
+	font-size: 24rpx;
+	color: #595959;
+	margin-left: 10rpx;
+	margin-right: 6rpx;
+}
+.content-title.data-v-ff1b20a2 {
+	width: 95%;
+	font-size: 27rpx;
+	margin-top: 8rpx;
+	margin-left: 15rpx;
+	font-weight: 600;
+}
+.bottom.data-v-ff1b20a2 {
+	margin-top: 6rpx;
+	margin-left: 16rpx;
+	padding-bottom: 16rpx;
+}
+.score.data-v-ff1b20a2 {
+	font-size: 25rpx;
+	margin-top: 6rpx;
+}
+.price.data-v-ff1b20a2 {
+	font-size: 31rpx;
+	color: orange;
+	margin-left: 120rpx;
+}
+

@@ -1,0 +1,174 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+		{
+			"path": "pages/index/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		}, 
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarBackgroundColor": "#ffdd28",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/recommend",
+			"style": {
+				"navigationBarTitleText": "精品推荐",
+				"navigationBarBackgroundColor": "#ffdd28"
+			}
+		},
+		{
+			"path": "pages/index/my",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/tips",
+			"style": {
+				"navigationBarTitleText": "旅游攻略"
+			}
+		},
+		{
+			"path": "pages/index/scenery",
+			"style": {
+				"navigationBarTitleText": "景区概况",
+				"navigationBarBackgroundColor": "#ffdd28"
+			}
+		},
+		{
+			"path": "pages/index/food",
+			"style": {
+				"navigationBarTitleText": "美食介绍",
+				"navigationBarBackgroundColor": "#ffdd28"
+			}
+		},
+		{
+			"path": "pages/index/stay",
+			"style": {
+				"navigationBarTitleText": "酒店民宿"
+			}
+		},
+		{
+			"path": "pages/index/forum",
+			"style": {
+				"navigationBarTitleText": "论坛空间"
+			}
+		},
+		{
+		    "path" : "pages/index/stayDetail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "酒店详情"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/index/fixpass",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "修改密码"
+		    }
+		    
+		},
+		{
+			"path": "pages/index/publish",
+			"style": {
+				"navigationBarTitleText": "发布"
+			}
+		},
+		{
+			"path": "pages/index/contact",
+			"style": {
+				"navigationBarTitleText": "联系我们"
+			}
+		},
+		{
+			"path": "pages/index/about",
+			"style": {
+				"navigationBarTitleText": "关于"
+			}
+		},
+		{
+			"path": "pages/index/sceneryDetail",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/index/tipsDetail",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/index/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/index/collect",
+			"style": {
+				"navigationBarTitleText": "收藏"
+			}
+		},
+		{
+			"path": "pages/index/delicious_food",
+			"style": {
+				"navigationBarTitleText": "美食详情"
+			}
+		},
+        {
+            "path" : "pages/index/fruitDtail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+        }
+    ],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#f7d528",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabar/index.png",
+				"selectedIconPath": "static/tabar/index1.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/index/recommend",
+				"iconPath": "static/tabar/menu.png",
+				"selectedIconPath": "static/tabar/menu1.png",
+				"text": "精品推荐"
+			},
+			{
+				"pagePath": "pages/index/my",
+				"iconPath": "static/tabar/my.png",
+				"selectedIconPath": "static/tabar/my1.png",
+				"text": "个人中心"
+			}
+		]
+	},
+	"globalStyle": {
+		"enablePullDownRefresh": false,
+		"backgroundTextStyle": "dark",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#F8F8F8"
+	}
+}

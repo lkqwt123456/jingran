@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "论坛空间",
+  "usingComponents": {
+    "chat-input": "/components/im-chat/chatinput"
+  }
+}

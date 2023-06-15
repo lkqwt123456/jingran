@@ -1,0 +1,201 @@
+
+.header.data-v-810f65fc {
+	width: 100%;
+	background-image: url(https://m.youxiake.com/img/img17.e30088ce.png);
+	background-size: 100% 100%;
+	height: 320rpx;
+	position: absolute;
+	top: 0;
+}
+.header-title.data-v-810f65fc {
+	margin-top: 65rpx;
+	text-align: center;
+	font-family: "宋体";
+	font-weight: 600;
+	font-size: 32rpx;
+}
+.header-content.data-v-810f65fc {
+	display: flex;
+	margin-left: 20rpx;
+	margin-top: 16rpx;
+}
+.avatar.data-v-810f65fc {
+	width: 120rpx;
+	height: 120rpx;
+}
+.avatar image.data-v-810f65fc {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+.header-content .user.data-v-810f65fc {
+	height: 120rpx;
+	margin-left: 30rpx;
+	line-height: 120rpx;
+}
+.username.data-v-810f65fc {
+	font-weight: 600;
+}
+.changeUsername.data-v-810f65fc{
+	padding-top: 34rpx;
+}
+.change.data-v-810f65fc {
+	margin-left: 50rpx;
+	padding-left: 10rpx;
+	padding-right: 15rpx;
+	background-color: rgba(248, 248, 248, 0.4);
+	border-radius: 25rpx;
+	justify-content: center;
+	text-align: center;
+}
+.change-title.data-v-810f65fc {
+	font-size: 28rpx;
+	margin-left: 4rpx;
+}
+.myServe.data-v-810f65fc {
+	width: 98%;
+	margin: 20rpx auto;
+	padding-top: 340rpx;
+	height: 280rpx;
+	background-color: #FFFFFF;
+	border-radius: 0 0 15rpx 15rpx;
+	border-bottom: 10rpx solid #f5f5f5;
+}
+.myServe .title.data-v-810f65fc {
+	font-weight: 700;
+	font-family: "宋体";
+	font-size: 34rpx;
+	border-bottom: 2rpx solid #f0f0f0;
+	padding-bottom: 16rpx;
+}
+.myServe .title text.data-v-810f65fc {
+	margin-left: 20rpx;
+}
+.nav-content.data-v-810f65fc {
+	display: flex;
+	margin-top: 50rpx;
+}
+.list.data-v-810f65fc {
+	width: 25%;
+	text-align: center;
+}
+.list .iconfont.data-v-810f65fc {
+	color: #FFDD28;
+	font-size: 65rpx;
+}
+.list text.data-v-810f65fc {
+	font-size: 25rpx;
+}
+.scenery-content.data-v-810f65fc {}
+.scenery-content .title.data-v-810f65fc {
+	height: 60rpx;
+	font-size: 36rpx;
+	font-family: "宋体";
+	text-align: center;
+	line-height: 60rpx;
+}
+.scenery-content .title.data-v-810f65fc::before,
+.scenery-content .title.data-v-810f65fc::after {
+	content: '--';
+	margin: 6rpx;
+}
+.scenery.data-v-810f65fc {
+	width: 98%;
+	margin: 16rpx auto;
+	display: flex;
+	background-color: #f5f5f5;
+}
+.scenery-left.data-v-810f65fc,
+.scenery-right.data-v-810f65fc {
+	width: 48%;
+	margin: 0 10rpx;
+}
+.left-list.data-v-810f65fc,
+.right-list.data-v-810f65fc {
+	background-color: #FFFFFF;
+	border-radius: 15rpx;
+	margin-bottom: 26rpx;
+}
+.left-list image.data-v-810f65fc {
+	width: 100%;
+	height: 240rpx;
+	margin: 0 auto;
+	border-radius: 16rpx 16rpx 0 0;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+.right-list image.data-v-810f65fc {
+	width: 100%;
+	height: 240rpx;
+	margin: 0 auto;
+	border-radius: 16rpx 16rpx 0 0;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+.line.data-v-810f65fc {
+	margin-left: 15rpx;
+}
+.name.data-v-810f65fc {
+	font-weight: 650;
+}
+.tags.data-v-810f65fc {
+	font-size: 25rpx;
+	margin-top: 10rpx;
+	color: #595959;
+}
+.tags .score.data-v-810f65fc {
+	color: orange;
+}
+.tags .price.data-v-810f65fc {
+	margin-left: 30rpx;
+	color: red;
+	font-size: 30rpx;
+}
+.category text.data-v-810f65fc {
+	font-size: 25rpx;
+	padding: 0 4rpx;
+	border: 1rpx soviewd #d5d5d5;
+	border-radius: 8rpx;
+	text-aviewgn: center;
+	margin-top: 4rpx;
+}
+.bottom.data-v-810f65fc {
+	display: flex;
+	margin-top: 14rpx;
+	padding-bottom: 16rpx;
+}
+.bottom .location.data-v-810f65fc {
+	width: 60%;
+	font-size: 25rpx;
+	color: #686868;
+}
+.location .iconfont.data-v-810f65fc {
+	font-size: 24rpx;
+	margin-right: 6rpx;
+}
+.browse.data-v-810f65fc {
+	font-size: 24rpx;
+	height: 30rpx;
+	color: #555555;
+	viewne-height: 30rpx;
+}
+.browse .iconfont.data-v-810f65fc {
+	margin-right: 5rpx;
+	position: relative;
+}
+.browse .num.data-v-810f65fc {
+	position: relative;
+	top: -4rpx;
+}
+

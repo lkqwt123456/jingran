@@ -1,0 +1,99 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "projectname": "景冉",
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "pages/index/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/index/delicious_food",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/index/forum",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/index/stayDetail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/index/collect",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/login",
+          "pathName": "pages/index/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/publish",
+          "pathName": "pages/index/publish",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/my",
+          "pathName": "pages/index/my",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/index/my",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/recommend",
+          "pathName": "pages/index/recommend",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/stayDetail",
+          "pathName": "pages/index/stayDetail",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

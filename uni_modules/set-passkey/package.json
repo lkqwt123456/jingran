@@ -1,0 +1,79 @@
+{
+  "id": "set-passkey",
+  "displayName": "自定义键盘 设置密码",
+  "version": "1.2.0",
+  "description": "自定义键盘 支持设置密码、打乱输入自定义键盘的数字",
+  "keywords": [
+    "自定义键盘",
+    "设置密码",
+    "数字键盘",
+    "自定义输入框"
+],
+  "repository": "",
+  "engines": {
+    "HBuilderX": "^3.1.0"
+  },
+  "dcloudext": {
+    "category": [
+        "前端组件",
+        "通用组件"
+    ],
+    "sale": {
+      "regular": {
+        "price": "0.00"
+      },
+      "sourcecode": {
+        "price": "0.00"
+      }
+    },
+    "contact": {
+      "qq": "1812336525"
+    },
+    "declaration": {
+      "ads": "无",
+      "data": "插件不采集任何数据",
+      "permissions": "无"
+    },
+    "npmurl": ""
+  },
+  "uni_modules": {
+    "dependencies": [],
+    "encrypt": [],
+    "platforms": {
+      "cloud": {
+        "tcb": "y",
+        "aliyun": "y"
+      },
+      "client": {
+        "App": {
+          "app-vue": "y",
+          "app-nvue": "u"
+        },
+        "H5-mobile": {
+          "Safari": "u",
+          "Android Browser": "u",
+          "微信浏览器(Android)": "u",
+          "QQ浏览器(Android)": "u"
+        },
+        "H5-pc": {
+          "Chrome": "y",
+          "IE": "y",
+          "Edge": "y",
+          "Firefox": "y",
+          "Safari": "y"
+        },
+        "小程序": {
+          "微信": "y",
+          "阿里": "u",
+          "百度": "u",
+          "字节跳动": "u",
+          "QQ": "u"
+        },
+        "快应用": {
+          "华为": "u",
+          "联盟": "u"
+        }
+      }
+    }
+  }
+}
